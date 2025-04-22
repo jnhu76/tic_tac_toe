@@ -1,0 +1,16 @@
+altgraph==0.17.4
+certifi==2025.1.31
+charset-normalizer==3.4.1
+docutils==0.21.2
+filetype==1.2.0
+idna==3.10
+kivy==2.3.1
+kivy-garden==0.1.5
+numpy==2.2.5
+packaging==25.0
+pygments==2.19.1
+pyinstaller==6.13.0
+pyinstaller-hooks-contrib==2025.3
+requests==2.32.3
+setuptools==79.0.0
+urllib3==2.4.0
